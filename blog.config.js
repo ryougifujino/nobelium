@@ -3,7 +3,7 @@ const BLOG = {
   author: 'ryougifujino',
   email: 'ryougifujino@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: '很高兴遇见你 ^_^',
+  description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
