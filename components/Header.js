@@ -4,7 +4,6 @@ import Image from 'next/image'
 import BLOG from '@/blog.config'
 import { useLocale } from '@/lib/locale'
 
-
 const NavBar = () => {
   const locale = useLocale()
   const links = [
