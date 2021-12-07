@@ -34,3 +34,11 @@ yarn-error.log*
 .vercel
 public/robots.txt
 public/sitemap.xml
+
+# editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
