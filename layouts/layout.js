@@ -9,7 +9,7 @@ import { useRouter } from 'next/router'
 import Comments from '@/components/Comments'
 
 const mapPageUrl = id => {
-  return 'https://www.notion.so/' + id.replace(/-/g, '')
+  return ''
 }
 
 const Layout = ({
