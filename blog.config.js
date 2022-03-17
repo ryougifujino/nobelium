@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'RF',
+  title: '两仪藤乃',
   author: 'ryougifujino',
   email: 'ryougifujino@gmail.com',
   link: 'https://nobelium.vercel.app',
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
-    keywords: ['Blog', 'RF', 'ryougifujino'],
+    keywords: ['Blog', '两仪藤乃', 'ryougifujino'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
