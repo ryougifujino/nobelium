@@ -1,6 +1,6 @@
 const BLOG = {
   title: "Fujino's Blog",
-  author: 'Fujino Ryougi',
+  author: 'ryougifujino',
   email: 'ryougifujino@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: '',
